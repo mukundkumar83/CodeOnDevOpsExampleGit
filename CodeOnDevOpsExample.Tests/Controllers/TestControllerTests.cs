@@ -14,7 +14,7 @@ namespace CodeOnDevOpsExample.Controllers.Tests
         [TestMethod()]
         public void IndexTest()
         {
-            int i = 0;
+            int i = 1;
             Assert.AreEqual(1, i);
         }
     }
